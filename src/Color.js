@@ -1,0 +1,1 @@
+export  const COLOR = ["#ffba44","#0ec023","#e00a0a","#333131"];//0-main,1-green,2-red,3-grey
